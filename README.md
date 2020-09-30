@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://krishnamdhawan.netlify.app/](https://krishnamdhawan.netlify.app/)
 
-- 💬 Ask me about **Android development and**
+- 💬 Ask me about **Android development and Computer Vision**
 
 - ⚡ Fun fact **Don't comment bad code - PR it..**
 
